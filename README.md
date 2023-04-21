@@ -4,6 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student | Full-Stack Web Developer | Software Developer | Data Scientist | Machine Learning Engineer
 ---------------------------------------------------------------------------------------------------------------------
 
+![developer](https://user-images.githubusercontent.com/48390647/233746062-d62daa47-2ec8-4abd-a917-ee317cde62c4.jpg)
+
+
 I'm a Computer Science Masters student from Indiana University. I'm a passionate learner and computer freak who loves developing web pages, developing applications, learning new technologies and a technical enthusiast exploring the cool modeling tech in ML- Artificial Intelligence.
 
 * 🌍  I'm based in Bloomington, Indiana
