@@ -17,8 +17,10 @@ I'm a Computer Science Masters student from Indiana University. I'm a passionate
 
 ---------------------------------------------------------------------------------------------------------------------
 
-**Check out my Recent Work (BookEasy Application- One Stop user-friendly application for users to book hotel rooms, check dashboard, book rooms for other guests and an existence of hotel owners to register there hotels for given locations):**
-**DEPLOYED APPLICATION:**
+## MY RECENT WORK 
+### Check out my Recent Work (BookEasy Application- One Stop user-friendly application for users to book hotel rooms, check dashboard, book rooms for other guests and an existence of hotel owners to register there hotels for given locations):
+<br/>
+### DEPLOYED APPLICATION:
 [BOOKEASY](https://bookeasy.netlify.app/)
 
 ----------------------------------------------------------------------------------------------------------------------
